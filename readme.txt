@@ -1,4 +1,4 @@
-=== WordPress Plugin Template ===
+=== My Posts ===
 Contributors: thedannywahl
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=46JVWB47BJPCJ&lc=US&item_name=My%20Posts&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: multi-author, post, posts, admin
